@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+ background-image:url(temp_1715268548967_transcpr.jpg);
+    height: 15vh;
+    width: 20;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 10px;
+}
+.logo a{
+    color: #fff;
+    padding: 0px 20px;
+    border: 1px solid #fff;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500;
+    text-shadow: rgba(0,0,0,0.7);
+}
+.logo span{
+    color: rgb(236 ,56 ,11);
+    font-weight: bold;
+    font-size: 2rem;
+}
+body{
+    background-color: #95f5ff;
+    padding: 10px 10px 10px 10px;
+    
+}
+#content,section, h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    margin-left: 10px;
+    margin-right: 10px
+    font-weight: 500;
+    transition: 0.6s ease;
+}
+.principale{
+   max-width: 100rem;
+   margin: 0auto;
+}
+.title{
+    position: absolute;
+    top: auto;
+    left: auto;
+    transform: translate(-50, -50%)
+}
+div#content div{
+    display: inline-block;
+    widwidth: 50%;
+    
+}
+ div#content div.CT1{
+ }
+ div#content div.CT2{ 
+ }
+  div#content div.CT3{
+  }
+  div#content div.CT4{
+  }
+footer {
+      margin-top: 10px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  article1, .passion{
+  text-align: left;
+  margin-bottom: 0px 
+  }
+  article2, h1{
+      text-align: left;
+      margin-top: 10px;
+      margin-bottom: 0px
+  }
